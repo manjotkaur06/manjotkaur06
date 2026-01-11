@@ -1,5 +1,4 @@
-.
--->
+
 # 💫 About Me:
 📊 Fresher Data Analyst with hands-on experience in SQL, Power BI, Excel, and Python<br><br>🧹 Skilled in data cleaning, data transformation, and exploratory data analysis (EDA)<br><br>📈 Proficient in creating interactive dashboards, reports, and data visualizations using Power BI and Excel<br><br>💾 Strong understanding of SQL queries, joins, subqueries, aggregations, and window functions<br><br>🐍 Experience using Python (Pandas, Matplotlib) for data analysis and visualization<br><br>🎯 Detail-oriented with strong analytical thinking, problem-solving, and business insight skills<br><br>🔗 LinkedIn: https://www.linkedin.com/in/manjot-kaur-93879527a<br><br>
 
